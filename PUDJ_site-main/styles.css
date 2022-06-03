@@ -29,7 +29,7 @@ div {
 
 .body_container {
 	height: 100%;
-	background: url('img/rectangle 1.png');
+	background: url('img/Rectangle\ 1.jpg');
 }
 
 .top_container {
@@ -126,7 +126,7 @@ header h1 {
 	background: #E8E8E8;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	border-radius: 10px;
-	margin: 28px 21px;
+	margin: 34px 21px;
 	padding: 15px;
 }
 
